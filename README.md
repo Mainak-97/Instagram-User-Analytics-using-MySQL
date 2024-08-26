@@ -36,3 +36,20 @@ A) Marketing Analysis:
 B) Investor Metrics:
 1. User Engagement: The average number of posts per user.
 2. Bots & Fake Accounts: Identify potential bots or fake accounts.
+
+#### Installation and Setup
+Download the Repository:
+
+Navigate to the GitHub repository and click on the Code button.
+Select Download ZIP to download the repository to your local machine.
+Extract the contents of the ZIP file.
+
+Import the SQL File:
+The SQL dump file is included in the repository. Locate the SQL file in the extracted folder.
+Open MySQL Workbench.
+Navigate to File > Open SQL Script and select the SQL file from the repository.
+Execute the script by clicking on the lightning bolt icon or pressing CTRL + Enter.
+
+Run SQL Scripts:
+The repository also contains individual SQL scripts for each analysis in the scripts/ directory.
+Open these scripts in MySQL Workbench to reproduce the results of the case studies.
